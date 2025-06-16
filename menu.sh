@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 # Exit on errors:
 set -e
 # v. 0.4
