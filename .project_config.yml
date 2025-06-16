@@ -1,0 +1,4 @@
+project:
+  name: "img-compr-visual"
+  python_version: "3.12.6"
+  main_filename: "image_compression_visualiser.py"
